@@ -1,1 +1,2 @@
 note.txt
+"so it work after all"
