@@ -2,3 +2,4 @@ note.txt
 "so it work after "
 "so it work after"
 " ok this  is new "
+"this is a new test message"
